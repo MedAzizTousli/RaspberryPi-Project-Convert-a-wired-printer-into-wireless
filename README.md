@@ -33,3 +33,6 @@
 <li> Click on print. </li>
 <li> Go get your documents from D32. </li>
 </ol>
+
+<h2> Video implementation </h2>
+<p> https://www.youtube.com/watch?v=XjJnvkOo0a0&t=1s </p>
