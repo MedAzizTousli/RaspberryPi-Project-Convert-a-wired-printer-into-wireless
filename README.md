@@ -35,4 +35,4 @@
 </ol>
 
 <h2> Video implementation </h2>
-<p> https://www.youtube.com/watch?v=XjJnvkOo0a0&t=1s </p>
+<p> https://youtu.be/XjJnvkOo0a0 </p>
