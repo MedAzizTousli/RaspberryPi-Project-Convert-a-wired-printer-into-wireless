@@ -7,8 +7,8 @@
 <h4> Work containing: </h4>
 <ul>
 <li>  The executable program for the user </li>
-<li>  The full commented server code </li>
-<li>  The full commented client code </li>
+<li>  The fully commented server code </li>
+<li>  The fully commented client code </li>
 <li>  The report of the project </li>
 </ul>
 
