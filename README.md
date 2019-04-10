@@ -27,7 +27,8 @@
 </ul>
 <h2> Utilization </h2>
 <ol>
-<li> Download the AJP-Printer folder. </li>
+<li> Download AJP-Printer.rar. </li>
+<li> Extract AJP-Printer.rar. </li>
 <li> Execute dist/AJP-Printer.exe. </li>
 <li> Browse the file you want to print. </li>
 <li> Click on print. </li>
